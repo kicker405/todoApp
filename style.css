@@ -1,0 +1,9 @@
+.container {
+    margin: 0 auto;
+    max-width: 1400px;
+}
+
+.nav {
+    display: flex;
+    gap: 15px;
+}
